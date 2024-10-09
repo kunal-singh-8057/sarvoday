@@ -1,0 +1,162 @@
+*
+{
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+
+.cs
+{
+    margin-top: 5%;
+    margin-left: 5%;
+   align-items: center;
+   display: flex;
+   
+}
+
+.csset
+{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 15%;
+    height: 20vh;
+    border-radius: 10px;
+}
+
+.csset p
+{
+    color: black;
+    margin-left: 3%;
+    margin-top: 3%;
+    position: absolute;
+}
+
+.csset h1 
+{
+    color: #FAB900;
+    margin-left: 4%;
+    margin-top: 5%;
+    position: absolute;
+}
+
+.taskboard
+{
+    width: 45%;
+    height: 65vh;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-left: 30%;
+    margin-top: -35%;
+    position: absolute;
+}
+
+.cs1
+{
+    margin-left: 80%;
+    width: 100%;
+    margin-top: -15%;
+    position: relative;
+}
+
+.voo
+{
+margin-left: 83%;
+margin-top: -37.6%;
+
+}
+
+.admine-btns
+{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 85%;
+    height: 20vh;
+    border-radius: 10px;
+}
+
+
+.btna
+{
+    margin-left: 3%;
+    margin-top: 4%;
+    position: absolute;
+   
+}
+
+.btna1
+{
+    margin-top: 4%;
+    margin-left: 3%;
+    position: absolute;
+}
+
+.btna2
+{
+    margin-top: 4%;
+    margin-left: 3%;
+    position: absolute;
+}
+
+
+
+.bbb1
+{
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: -20%;
+    text-decoration: none;
+}
+
+
+.bbb2
+{
+    padding: 10px 20px;
+    background-color: royalblue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: 28%;
+    margin-left: 23%;
+    text-decoration: none;
+}
+
+
+.bbb3
+{
+    padding: 10px 20px;
+    background-color: crimson;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: 28%;
+    margin-left: 23%;
+    text-decoration: none;
+}
+
+.adda
+{
+    margin-left: 40%;
+    margin-top: -3%;
+    position: absolute;
+    font-size: 50px;
+    color: #0A033C;
+}
+
+.bbb4
+{
+    text-decoration: none;
+    color: #0A033C;
+    padding: 10px 20px;
+    background-color: #FAB900;
+    border: none;
+    border-radius: 10px;
+}
+
+.bbn
+{
+    margin-top: 1%;
+    margin-left: 48%;
+}
+

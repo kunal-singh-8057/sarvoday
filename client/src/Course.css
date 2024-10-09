@@ -1,0 +1,106 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.img27
+{
+    margin-top: 5%;
+    width: 100%;
+}
+
+.btn-set
+{
+    text-decoration: none;
+    margin-top: 5%;
+    margin-left: 23%;
+}
+
+.ab
+{
+    text-decoration: none;
+    margin-left: 5%;
+    padding: 10px 20px;
+    background-color: #362B0E;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.slist
+{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.slist h1
+{
+    margin-top: 15%;
+}
+
+
+.outframe
+{
+width: 70%;
+height: 35%;
+background-color:white;
+margin-top: 5%;
+margin-left: 3%;
+display: flex;
+align-items: center;
+gap: 3%;
+}
+
+.innerframe
+{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 30%; 
+    height: 45vh;
+    border-radius: 10px;
+}
+
+.innerframe img
+{
+    margin-left: 40%;
+    margin-top: 5%;
+    width: 20%;
+}
+
+.innerframe h3
+{
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.ddc
+{
+    margin-top: 15%;
+    position: relative;
+}
+
+.bton
+{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: yellow;
+    margin-top: 10%;
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 5.8%;
+    position: absolute;
+}
+
+.btn53
+{
+    padding: 10px 20px;
+    background-color: yellow;
+    color: #0A033C;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    margin-left: 45%;
+}

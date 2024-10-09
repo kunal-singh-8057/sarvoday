@@ -1,0 +1,75 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.con1
+{
+    background: linear-gradient(
+        to right,
+         #FAB900 0%,
+         #FAB900 50%,
+         white 50%,
+         white 100%
+    );
+    width: 45%;
+    height: 55vh;
+    margin-top: -30%;
+    margin-left: 30%;
+    border: none;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.con1 h1
+{
+    color: black;
+    margin-left: 60%;
+    font-size: 50px;
+}
+
+.con1 input
+{
+    margin-left: 58%;
+    border: none;
+    border-radius: 10px;
+    height: 5vh;
+    background-color: aliceblue;
+    width: 50%;
+    
+}
+
+.con1 button
+{
+    margin-left: 75%;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.con1 textarea
+{
+    background-color: aliceblue;
+    margin-left: 58%;
+    width: 50%;
+    height: 20vh;
+    border: none;
+    border-radius: 10px;
+}
+
+
+.img20
+{
+    width: 35%;
+    position: absolute;
+    margin-left: 8%;
+}
+
+
+.img23
+{
+    width: 100%;
+}

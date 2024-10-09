@@ -1,0 +1,51 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar
+{
+    display: flex;
+    align-items: center;
+    margin-top: 2%;
+}
+
+.navbar h1 
+{
+    font-size: 25px;
+    margin-left: 2%;
+}
+
+.img7
+{
+   width: 3%;
+   margin-left: 3%;
+}
+
+.nav{
+margin-left: 10%;
+gap: 15%;
+}
+
+.navlinks
+{
+    text-decoration: none;
+    color:  black;
+    margin-left: 20%;
+}
+
+.navlinks:hover{
+    color: #FAB900;
+}
+
+.btn1
+{
+    border: none;
+    border-radius: 10px;
+    background-color: #362B0E;
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    margin-left: 15%;
+}

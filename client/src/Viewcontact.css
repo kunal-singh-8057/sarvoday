@@ -1,0 +1,57 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.vc
+{
+    margin-left: 32%;
+    margin-top: 5%;
+    font-size: 60px;
+    color: #0A033C;
+    margin-top: -52%;
+}
+
+.nt
+{
+width: 100%;
+}
+
+.b1
+{
+    background-color: white;
+    width: 55%;
+    height: 30vh;
+    position: absolute;
+    margin-left: 25%;
+    margin-top: 18%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+}
+
+.lu
+{
+    display: flex;
+    align-items: center;
+    column-gap: 2%;
+    margin-top: 3%;
+  
+    position: relative;
+}
+
+.coo
+{
+    margin-top: 19%;
+    margin-left: 30%;
+
+}
+
+.del
+{
+    background-color: crimson;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: white;
+}

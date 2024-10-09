@@ -1,0 +1,73 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.img1
+{
+    margin-top: -1%;
+    width: 100%;
+}
+
+.img2
+{
+    margin-left: 63%;
+    margin-top: -100%;
+    width: 30%;
+}
+
+.nex
+{
+    margin-top: 3%;
+}
+
+.nex h1
+{
+    color: #0A033C;
+    margin-left: 20%;
+    font-size: 60px;
+
+}
+
+.nex p 
+{
+    margin-left: 35%;
+}
+
+.set
+{
+   display: flex;
+   align-items: center;
+   margin-top: 8%;
+   margin-left: 8%;
+   gap: 5%;
+   
+}
+
+.s
+{
+    display: flex;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 20%;
+    border-radius: 10px;
+}
+
+.s h1
+{
+    margin-left: 10%;
+    font-size: 30px;
+}
+
+.img3
+{
+    margin-left: 2%;
+    margin-top: 5%;
+}
+
+.back2
+{
+    width: 100%;
+    margin-top: 2%;
+}

@@ -1,0 +1,51 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.bb3
+{
+    background: linear-gradient(115deg, #ff3c00, #f2ff00);
+    width: 100%;
+    height: 89vh;
+}
+
+.bb3 h1 
+{
+    color: white;
+    margin-top: 20%;
+    font-size: 60px;
+    margin-left: 20%;
+    position: absolute;
+
+}
+
+.img28
+{
+    width: 60%;
+    margin-top: 2%;
+}
+
+.board
+{
+    background-color: white;
+    width: 35%;
+    height: 40vh;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: -30%;
+    margin-left: 62%;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.poo
+{
+    margin-left: 64%;
+    margin-top: -30%;
+    position: absolute;
+    width: 30%;
+}
+
+
